@@ -141,7 +141,6 @@ Message `Hi` bhejne ke baad aap notice karoge ki previous error `400-Error-Missi
 ### Error Screenshot
 <img width="760" height="292" alt="image" src="https://github.com/user-attachments/assets/cec4b79b-e498-4223-b48c-83ae1e0be5ac" />
 
-![500-Error-Fetch-FailedTypeError](/images/500-Error-Fetch-FailedTypeError.png "The title for the image")
 
 <div align="center">
 
