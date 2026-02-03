@@ -16,6 +16,7 @@ ccr status
 
 ### Error Screenshot
 
+<img width="440" height="199" alt="image" src="https://github.com/user-attachments/assets/e092e436-1935-4685-8a0f-12f6bbff60e0" />
 ![Status-Not-Running](/images/Status-Not-Running.png "The title for the image")
 
 
