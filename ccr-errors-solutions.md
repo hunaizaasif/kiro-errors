@@ -17,7 +17,7 @@ ccr status
 ### Error Screenshot
 
 <img width="440" height="199" alt="image" src="https://github.com/user-attachments/assets/e092e436-1935-4685-8a0f-12f6bbff60e0" />
-![Status-Not-Running](/images/Status-Not-Running.png "The title for the image")
+
 
 
 ## **Solution of Error-1**:
@@ -45,10 +45,9 @@ ccr status
 ## Error-2: Not properly  adding a content in config.json file!
 
 ### Error Screenshot
+<img width="768" height="235" alt="image" src="https://github.com/user-attachments/assets/31fbc08c-27d2-4db1-9ebe-2514b2a04dde" />
 
-![400-Error-Missing-Model-In-Request-Body](/images/400-missing-model-error.png "The title for the image")
-
-## **Solution of Error-2**:
+Solution of Error-2**:
 
 ### Run this command that file exist or not:
 
@@ -140,6 +139,7 @@ Message `Hi` bhejne ke baad aap notice karoge ki previous error `400-Error-Missi
 ## Error-3: Connection Failed (500 Error)
 
 ### Error Screenshot
+<img width="760" height="292" alt="image" src="https://github.com/user-attachments/assets/cec4b79b-e498-4223-b48c-83ae1e0be5ac" />
 
 ![500-Error-Fetch-FailedTypeError](/images/500-Error-Fetch-FailedTypeError.png "The title for the image")
 
